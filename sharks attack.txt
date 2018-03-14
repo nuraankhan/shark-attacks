@@ -1,0 +1,19 @@
+the dataset showed different cases of shark attacks from all over. 
+my question was : "what were the main causes for these attacks?"
+i used tableau software to help represnt my findings.
+firstly i looked at where the attacks were and whether or not they were fatal.
+it seemed as most were not fatal but the attacks couldve led to fatality.
+
+next i looked up the 3 most popular activities amongst where the shark attacks were located.
+the top 3 were Surfing, Fishing and swimming. what was most common was fishing.
+according to my knowledge(and watching discovery/ national geograohic channels) wherever theres fishing 
+actiity, there is a high possibility of sharks being within that region.
+wherever the fishing was located on the map in tableau, it was in the areas of the shark attacks/
+
+i searched for a certain amount of countries to see if there were more than one type of shark species located there.
+i could see that the most popular sharks are bull, white and tiger sharks (definitely not one of nemos friends)
+
+finally i searched for the same set of countries with the types of incidents. Provoked meaning the shark was aggitated. Unporvoked meaning the shark
+was not in a "frenzy". 
+'boating' - anything related to boats such as boat rides, fishing trips, etc.
+'sea disaster' - includes ship wreck, accidents, natural disasters, etc
